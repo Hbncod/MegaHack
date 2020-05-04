@@ -1,0 +1,62 @@
+CREATE DATABASE MegaHack
+GO
+USE MegaHack
+GO
+CREATE TABLE TipoUsuario(
+	Id_TipoUsuario	INT PRIMARY KEY IDENTITY,
+	Tipo			VARCHAR(20)
+)
+GO
+CREATE TABLE TipoComercio(
+	Id_TipoComercio	INT PRIMARY KEY IDENTITY,
+	Tipo			VARCHAR(100)
+)
+GO
+CREATE TABLE Produto(
+	Id_Produto		INT PRIMARY KEY IDENTITY,
+	NomeProduto		VARCHAR(200)
+)
+GO
+CREATE TABLE Usuario(
+	Id_Usuario		INT PRIMARY KEY IDENTITY,
+	Nome			VARCHAR(200) NOT NULL,
+	Rg				VARCHAR(20) UNIQUE NOT NULL,
+	Cpf				VARCHAR(20) UNIQUE NOT NULL,
+	Telefone		VARCHAR(20),
+	Email			VARCHAR(100) UNIQUE NOT NULL,
+	Senha			VARCHAR(100) NOT NULL,
+	Fk_TipoUsuario	INT FOREIGN KEY REFERENCES TipoUsuario (Id_TipoUsuario) NOT NULL
+)
+GO
+CREATE TABLE Comercio(
+	Id_Comercio		INT PRIMARY KEY IDENTITY,
+	NomeFantasia	VARCHAR(200) NOT NULL,
+	CNPJ			VARCHAR(20)  UNIQUE NOT NULL,
+	CEP				VARCHAR(20)	 NOT NULL,
+	UF				CHAR(2)		 NOT NULL,
+	Cidade			VARCHAR(40)	 NOT NULL,
+	Bairro			VARCHAR(200) NOT NULL,
+	Logradouro		VARCHAR(200) NOT NULL,
+	Numero			VARCHAR(10)  NOT NULL,
+	TelefoneFixo	VARCHAR(20),
+	TelefoneCelular VARCHAR(20),
+	Descricao		VARCHAR(MAX),
+	Fk_Usuario		INT FOREIGN KEY REFERENCES Usuario (Id_Usuario) NOT NULL,
+	Fk_TipoComercio INT FOREIGN KEY REFERENCES TipoComercio (Id_TipoComercio) NOT NULL
+)
+GO
+CREATE TABLE Plano(
+	Id_Plano		INT PRIMARY KEY IDENTITY,
+	Fim				DATE,
+	Estado			Bit,
+	Fk_Usuario		INT FOREIGN KEY REFERENCES Usuario (Id_Usuario) NOT NULL
+)
+GO
+CREATE TABLE Cupom(
+	Id_Cupom		INT PRIMARY KEY IDENTITY,
+	Desconto		INT,
+	Fk_Produto		INT FOREIGN KEY REFERENCES Produto (Id_Produto),
+	Fk_Comercio		INT FOREIGN KEY REFERENCES Comercio (Id_Comercio)
+)
+	
+

@@ -1,0 +1,32 @@
+C:\Users\HENRIQUE\Desktop\Banco hackaton\I9OpenWebApi\I9OpenWebApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\HENRIQUE\Desktop\Banco hackaton\I9OpenWebApi\I9OpenWebApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\HENRIQUE\Desktop\Banco hackaton\I9OpenWebApi\I9OpenWebApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\HENRIQUE\Desktop\Banco hackaton\I9OpenWebApi\I9OpenWebApi\bin\Debug\netcoreapp2.1\I9OpenWebApi.deps.json
+C:\Users\HENRIQUE\Desktop\Banco hackaton\I9OpenWebApi\I9OpenWebApi\bin\Debug\netcoreapp2.1\I9OpenWebApi.runtimeconfig.json
+C:\Users\HENRIQUE\Desktop\Banco hackaton\I9OpenWebApi\I9OpenWebApi\bin\Debug\netcoreapp2.1\I9OpenWebApi.runtimeconfig.dev.json
+C:\Users\HENRIQUE\Desktop\Banco hackaton\I9OpenWebApi\I9OpenWebApi\bin\Debug\netcoreapp2.1\I9OpenWebApi.dll
+C:\Users\HENRIQUE\Desktop\Banco hackaton\I9OpenWebApi\I9OpenWebApi\obj\Debug\netcoreapp2.1\I9OpenWebApi.csprojAssemblyReference.cache
+C:\Users\HENRIQUE\Desktop\Banco hackaton\I9OpenWebApi\I9OpenWebApi\obj\Debug\netcoreapp2.1\I9OpenWebApi.RazorAssemblyInfo.cache
+C:\Users\HENRIQUE\Desktop\Banco hackaton\I9OpenWebApi\I9OpenWebApi\obj\Debug\netcoreapp2.1\I9OpenWebApi.RazorAssemblyInfo.cs
+C:\Users\HENRIQUE\Desktop\Banco hackaton\I9OpenWebApi\I9OpenWebApi\obj\Debug\netcoreapp2.1\I9OpenWebApi.AssemblyInfoInputs.cache
+C:\Users\HENRIQUE\Desktop\Banco hackaton\I9OpenWebApi\I9OpenWebApi\obj\Debug\netcoreapp2.1\I9OpenWebApi.AssemblyInfo.cs
+C:\Users\HENRIQUE\Desktop\Banco hackaton\I9OpenWebApi\I9OpenWebApi\obj\Debug\netcoreapp2.1\I9OpenWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\HENRIQUE\Desktop\Banco hackaton\I9OpenWebApi\I9OpenWebApi\bin\Debug\netcoreapp2.1\I9OpenWebApi.pdb
+C:\Users\HENRIQUE\Desktop\Banco hackaton\I9OpenWebApi\I9OpenWebApi\obj\Debug\netcoreapp2.1\I9OpenWebApi.dll
+C:\Users\HENRIQUE\Desktop\Banco hackaton\I9OpenWebApi\I9OpenWebApi\obj\Debug\netcoreapp2.1\I9OpenWebApi.pdb
+C:\Users\HENRIQUE\Desktop\megahack\Back-End\I9OpenWebApi\I9OpenWebApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\HENRIQUE\Desktop\megahack\Back-End\I9OpenWebApi\I9OpenWebApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\HENRIQUE\Desktop\megahack\Back-End\I9OpenWebApi\I9OpenWebApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\HENRIQUE\Desktop\megahack\Back-End\I9OpenWebApi\I9OpenWebApi\bin\Debug\netcoreapp2.1\I9OpenWebApi.deps.json
+C:\Users\HENRIQUE\Desktop\megahack\Back-End\I9OpenWebApi\I9OpenWebApi\bin\Debug\netcoreapp2.1\I9OpenWebApi.runtimeconfig.json
+C:\Users\HENRIQUE\Desktop\megahack\Back-End\I9OpenWebApi\I9OpenWebApi\bin\Debug\netcoreapp2.1\I9OpenWebApi.runtimeconfig.dev.json
+C:\Users\HENRIQUE\Desktop\megahack\Back-End\I9OpenWebApi\I9OpenWebApi\bin\Debug\netcoreapp2.1\I9OpenWebApi.dll
+C:\Users\HENRIQUE\Desktop\megahack\Back-End\I9OpenWebApi\I9OpenWebApi\bin\Debug\netcoreapp2.1\I9OpenWebApi.pdb
+C:\Users\HENRIQUE\Desktop\megahack\Back-End\I9OpenWebApi\I9OpenWebApi\obj\Debug\netcoreapp2.1\I9OpenWebApi.csprojAssemblyReference.cache
+C:\Users\HENRIQUE\Desktop\megahack\Back-End\I9OpenWebApi\I9OpenWebApi\obj\Debug\netcoreapp2.1\I9OpenWebApi.RazorAssemblyInfo.cache
+C:\Users\HENRIQUE\Desktop\megahack\Back-End\I9OpenWebApi\I9OpenWebApi\obj\Debug\netcoreapp2.1\I9OpenWebApi.RazorAssemblyInfo.cs
+C:\Users\HENRIQUE\Desktop\megahack\Back-End\I9OpenWebApi\I9OpenWebApi\obj\Debug\netcoreapp2.1\I9OpenWebApi.AssemblyInfoInputs.cache
+C:\Users\HENRIQUE\Desktop\megahack\Back-End\I9OpenWebApi\I9OpenWebApi\obj\Debug\netcoreapp2.1\I9OpenWebApi.AssemblyInfo.cs
+C:\Users\HENRIQUE\Desktop\megahack\Back-End\I9OpenWebApi\I9OpenWebApi\obj\Debug\netcoreapp2.1\I9OpenWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\HENRIQUE\Desktop\megahack\Back-End\I9OpenWebApi\I9OpenWebApi\obj\Debug\netcoreapp2.1\I9OpenWebApi.dll
+C:\Users\HENRIQUE\Desktop\megahack\Back-End\I9OpenWebApi\I9OpenWebApi\obj\Debug\netcoreapp2.1\I9OpenWebApi.pdb
